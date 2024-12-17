@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/home",
+    "pages/menu",
+    "pages/challenge1",
+    "pages/challenge2",
+    "pages/challenge3",
+    "pages/challenge4",
+    "pages/challenge5",
+    "pages/challenge6",
+    "common/flagDialog",
+    "pages/challenge_1_submit"
+  ]
+}
